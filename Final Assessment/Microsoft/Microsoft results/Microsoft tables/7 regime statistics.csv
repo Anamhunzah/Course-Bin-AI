@@ -1,0 +1,8 @@
+Regime effect:
+                   mean     std  count
+Regime                                
+Bear / High Vol  0.0013  0.0260   2023
+Bear / Normal    0.0002  0.0187   1796
+Bull / High Vol  0.0008  0.0241   2464
+Bull / Normal    0.0014  0.0160   3766
+Mixed            0.0024  0.0239     48

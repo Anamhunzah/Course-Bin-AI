@@ -1,0 +1,6 @@
+FINAL RESEARCH SUMMARY
+    Stock  Rows      Start        End  Start Price  End Price  Annualized Volatility   CAGR  Max Drawdown  Annualized Sharpe       Best ML Model  Best ML Accuracy  Backtest Sharpe  Backtest CAGR
+Microsoft 10098 1986-03-13 2026-04-13       0.0972     380.52                 0.3321 0.2292       -0.7456             0.7885 Logistic Regression            0.5047           0.6208         0.1304
+
+Complete. Charts: C:\Users\Admin\Documents\GitHub\Course Bin AI\Final Assessment\Microsoft\Microsoft results\charts
+Tables: C:\Users\Admin\Documents\GitHub\Course Bin AI\Final Assessment\Microsoft\Microsoft results\tables

@@ -1,0 +1,6 @@
+FINAL RESEARCH SUMMARY
+Stock  Rows      Start        End  Start Price  End Price  Annualized Volatility  CAGR  Max Drawdown  Annualized Sharpe Best ML Model  Best ML Accuracy  Backtest Sharpe  Backtest CAGR
+Adobe  9652 1986-08-13 2024-11-29       0.1981     515.93                 0.4836 0.228       -0.7989              0.667 Random Forest             0.519           0.5393         0.1356
+
+Complete. Charts: C:\Users\Admin\Documents\GitHub\Course Bin AI\Final Assessment\Adobe\Adobe results\charts
+Tables: C:\Users\Admin\Documents\GitHub\Course Bin AI\Final Assessment\Adobe\Adobe results\tables

@@ -1,0 +1,6 @@
+MACHINE LEARNING
+              Model  Accuracy  Precision  Recall     F1
+Logistic Regression    0.5047     0.5152  0.4232 0.4647
+      Random Forest    0.4999     0.5102  0.3857 0.4393
+  Gradient Boosting    0.4917     0.4996  0.4122 0.4517
+        Extra Trees    0.5036     0.5145  0.4056 0.4536
